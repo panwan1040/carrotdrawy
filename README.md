@@ -1,7 +1,6 @@
 # CarrotDrawy
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="CarrotDrawy Logo" width="150px" />
   <p><em>Convert images into amazing automated drawings</em></p>
   <p>
     <a href="#english">English</a> • 
